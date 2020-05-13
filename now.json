@@ -1,5 +1,5 @@
 {
-  "name": "sematext-logs-integration",
+  "name": "sematext-logs-vercel-integration",
   "env": {
     "CLIENT_ID": "@sematext-client-id",
     "CLIENT_SECRET": "@sematext-client-secret",

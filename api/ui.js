@@ -71,7 +71,7 @@ module.exports = withUiHook(async ({ payload }) => {
         ${
           errorMessage ? htm`<Notice type="error">${errorMessage}</Notice>` : ""
         }
-        <Button action="setup">Setup</Button>
+        <Button action="setup">Set Up</Button>
       </Page>
     `;
   }
